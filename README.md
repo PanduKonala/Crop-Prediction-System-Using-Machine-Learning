@@ -1,6 +1,6 @@
 ![](https://github.com/PanduKonala/PanduKonala/blob/main/header_.png)
 <br>
-# [Crop Prediction System Using Machine Learning](https://pandukonala.github.io/blog-work/crop/crop.html)
+# [Crop Prediction System Using Machine Learning](https://pandukonala.github.io/blog-projects/crop/crop.html)
 ## Note
 > Since the project is huge to upload in GitHub, I have compressed the project into multiple files. Download all and then extract.
 
